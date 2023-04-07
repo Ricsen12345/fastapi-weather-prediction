@@ -28,6 +28,7 @@ temperatureList = []
 humidityList = []
 raindropList = []
 
+print(data)
 for dt in data:
   print(dt)
 
